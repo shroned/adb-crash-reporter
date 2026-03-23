@@ -51,7 +51,7 @@ Install required libraries:
 
 ```bash
 pip install plyer
-pip install playsound
+pip install playsound3
 ```
 
 Ensure:
